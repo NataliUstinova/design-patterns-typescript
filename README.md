@@ -1,4 +1,4 @@
-# Design Patterns written in Typescript 
+# Design Patterns in Typescript 
 ## Building patterns
 - Singleton 
 - Factory
